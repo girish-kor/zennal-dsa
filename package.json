@@ -2,6 +2,9 @@
   "type": "module",
   "name": "@zennal/dsa",
   "version": "1.0.0",
+   "publishConfig": {
+    "access": "public"
+  },
   "description": "A comprehensive TypeScript/JavaScript npm package providing production-ready implementations of common data structures and algorithms.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
