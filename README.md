@@ -1,23 +1,20 @@
 # @zennal/dsa
 
-[![npm version](https://img.shields.io/npm/v/@zennal/dsa.svg)](https://www.npmjs.com/package/@zennal/dsa) [![npm downloads](https://img.shields.io/npm/dm/@zennal/dsa.svg)](https://www.npmjs.com/package/@zennal/dsa) [![GitHub stars](https://img.shields.io/github/stars/girish-kor/zennal-dsa.svg)](https://github.com/girish-kor/zennal-dsa) [![Author](https://img.shields.io/badge/Author-Girish%20Kor-blue)](https://girishkor.dev/)
-
-## Introduction
-
 A comprehensive Javascript/TypeScript npm package providing efficient implementations of data structures and algorithms for competitive programming, education, and software development.
 
----
+[![npm version](https://img.shields.io/npm/v/@zennal/dsa.svg)](https://www.npmjs.com/package/@zennal/dsa) [![npm downloads](https://img.shields.io/npm/dm/@zennal/dsa.svg)](https://www.npmjs.com/package/@zennal/dsa) [![GitHub stars](https://img.shields.io/github/stars/girish-kor/zennal-dsa.svg)](https://github.com/girish-kor/zennal-dsa) [![Author](https://img.shields.io/badge/Author-Girish%20Kor-blue)](https://girishkor.dev/)
+
 
 ## Installation
 
 ```bash
-npm install @zennal/dsa
+    npm install @zennal/dsa
 ```
 
 ## Usage
 
 ```javascript
-import {} from /* your imports */ "@zennal/dsa";
+    import {} from /* your imports */ "@zennal/dsa";
 ```
 
 ---
@@ -311,5 +308,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 _Built with ❤️ for the developer community. Happy coding!_
-#   z e n n a l - d s a  
- 
